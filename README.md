@@ -17,7 +17,7 @@ chmod +x arch_install.sh
 
 ./arch_install.sh
 
-Replace http://example.com/arch_install.sh with the actual URL where you have hosted this script.
+Replace https://github.com/kyzitemelos/Arch-Linux-Install-Script.git with the actual URL where you have hosted this script.
 Additional Steps for Secure Boot:
 After running the script, you'll need to enroll the keys generated for Secure Boot in your system's firmware settings. The exact process for this varies depending on your motherboard's firmware (UEFI) interface, but generally, it involves:
 
