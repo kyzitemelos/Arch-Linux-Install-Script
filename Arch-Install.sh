@@ -4,10 +4,10 @@
 set -e
 
 # Variables
-HOSTNAME="Arch-Linux-Z390"
-ROOT_PASSWORD="Melos91$"
-USERNAME="kyzite"
-USER_PASSWORD="Melos91$"
+HOSTNAME="Hostname"
+ROOT_PASSWORD="Password"
+USERNAME="user"
+USER_PASSWORD="Passord"
 TIMEZONE="America/Chicago"
 LOCALE="en_US.UTF-8"
 SWAP_SIZE="32G"
