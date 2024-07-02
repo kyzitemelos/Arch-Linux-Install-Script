@@ -11,7 +11,7 @@ Instructions to Run the Script:
 
 open bash terminal
 
-curl -O http://example.com/arch_install.sh
+curl -O https://github.com/kyzitemelos/Arch-Linux-Install-Script.git
 
 chmod +x arch_install.sh
 
